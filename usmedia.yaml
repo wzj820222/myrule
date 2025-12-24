@@ -1,0 +1,41 @@
+# NAME: usmedia
+# AUTHOR: wang
+
+payload:
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+  - DOMAIN-SUFFIX,a1xs.vip
+  - DOMAIN-SUFFIX,moveonjoy.com
+  - DOMAIN-SUFFIX,amagi.tv
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,amdvids.com
+
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,wurl.tv
+  - DOMAIN-SUFFIX,wurl.com
+  - DOMAIN-SUFFIX,jmp2.uk
+  - DOMAIN-SUFFIX,nfl.com
+
+  - DOMAIN-SUFFIX,tubitv.com,
+  - DOMAIN-SUFFIX,tubi.video
+  - DOMAIN-SUFFIX,tubi.io
+  - DOMAIN-SUFFIX,youboranqs01.com
+  
+  - DOMAIN,pal.short.gy
+  
+  
+  - DOMAIN-SUFFIX,thetvapp.to
+  - DOMAIN-SUFFIX,tvpass.org
+  - DOMAIN-SUFFIX,m82xg4z0cdbz7.com
+  - DOMAIN-SUFFIX,bloomberg.com
+  
+  - DOMAIN-SUFFIX,176868.cloud
+  - DOMAIN-SUFFIX,143104.com
+  - DOMAIN-SUFFIX,276868.cloud
+  
+
+
+
+
+  
