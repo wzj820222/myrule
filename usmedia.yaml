@@ -26,6 +26,8 @@ payload:
   - DOMAIN-SUFFIX,143104.com
   - DOMAIN-SUFFIX,276868.cloud
   - DOMAIN-SUFFIX,roku.com
+  - DOMAIN-SUFFIX,pluto.tv
+  - DOMAIN-SUFFIX,plutotv.net
   
   - DOMAIN,pal.short.gy
   - DOMAIN,7pal.short.gy
