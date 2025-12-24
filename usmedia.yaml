@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,amagi.tv
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,amdvids.com
+  - DOMAIN-SUFFIX,warnermediacdn.com
+  - DOMAIN-SUFFIX,nbcuni.com
 
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,wurl.tv
