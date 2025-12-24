@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,cloudflarestorage.com
