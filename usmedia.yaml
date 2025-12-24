@@ -24,7 +24,7 @@ payload:
   
   - DOMAIN,pal.short.gy
   - DOMAIN,7pal.short.gy
-  
+  - IP-CIDR,109.61.81.0/24
   
   - DOMAIN-SUFFIX,thetvapp.to
   - DOMAIN-SUFFIX,tvpass.org
