@@ -1,0 +1,10 @@
+  - DOMAIN-SUFFIX,28.al, #起点站
+  - DOMAIN,qdzfreecdn.b-cdn.net #起点站
+  - IP-CIDR,192.99.35.0/24 #起点站
+  
+  - DOMAIN-SUFFIX,embyplus.org #Embyplus
+  - DOMAIN-SUFFIX,okemby.org #okemby
+  - DOMAIN-SUFFIX,heisi.org #youqibing
+  - IP-CIDR,152.53.194.0/24 #youqibing
+  - IP-CIDR,146.235.199.99/32 #OracleUS_MY
+  - DOMAIN-SUFFIX,ii00.cc
