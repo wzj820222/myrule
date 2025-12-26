@@ -30,9 +30,22 @@ payload:
   - DOMAIN-SUFFIX,plutotv.net
   - DOMAIN-SUFFIX,xxip9.top
   - DOMAIN-SUFFIX,todaytes.com
+  - DOMAIN-SUFFIX,getaj.net
+  - DOMAIN-SUFFIX,frequency.stream
+  - DOMAIN-SUFFIX,ostv.info
+  - DOMAIN-SUFFIX,duckdns.org
+  
   
   - DOMAIN,pal.short.gy
   - DOMAIN,7pal.short.gy
   - IP-CIDR,109.61.81.0/24
   - IP-CIDR,5.182.228.0/24
   - IP-CIDR,194.59.59.0/24
+  - IP-CIDR,23.237.104/24
+  - IP-CIDR,193.35.224.0/24
+  - IP-CIDR,31.222.238.0/24
+  - IP-CIDR,185.235.240.0/24
+  - IP-CIDR,206.212.246.0/24
+  - IP-CIDR,193.200.221.0/24
+  - IP-CIDR,194.35.227.0/24
+  - IP-CIDR,195.211.191.0/24
