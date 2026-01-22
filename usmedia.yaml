@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,frequency.stream
   - DOMAIN-SUFFIX,ostv.info
   - DOMAIN-SUFFIX,duckdns.org
+  - DOMAIN-SUFFIX,3qsdn.com
   
   
   - DOMAIN,pal.short.gy
