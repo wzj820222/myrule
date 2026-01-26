@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,duckdns.org
   - DOMAIN-SUFFIX,3qsdn.com
   - DOMAIN-SUFFIX,megogo.xyz
+  - DOMAIN-SUFFIX,bozztv.com
   
   
   - DOMAIN,pal.short.gy
