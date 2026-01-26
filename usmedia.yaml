@@ -40,6 +40,9 @@ payload:
   - DOMAIN-SUFFIX,wfc.tv
   - DOMAIN-SUFFIX,tv5monde.com
   - DOMAIN-SUFFIX,france24.com
+  - DOMAIN-SUFFIX,cooks.fyi
+
+  
   
   
   - DOMAIN,pal.short.gy
