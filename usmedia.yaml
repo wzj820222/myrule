@@ -38,7 +38,7 @@ payload:
   - DOMAIN-SUFFIX,megogo.xyz
   - DOMAIN-SUFFIX,bozztv.com
   - DOMAIN-SUFFIX,wfc.tv
-  - DOMAIN-SUFFIX,tv5monde.com
+#  - DOMAIN-SUFFIX,tv5monde.com
   - DOMAIN-SUFFIX,france24.com
   - DOMAIN-SUFFIX,cooks.fyi
 
