@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,28.al, #起点站
   - DOMAIN,qdzfreecdn.b-cdn.net #起点站
   - IP-CIDR,192.99.35.0/24 #起点站
+  - DOMAIN-SUFFIX,startspoint.com #起点站
   
   - DOMAIN-SUFFIX,embyplus.org #Embyplus
   - DOMAIN-SUFFIX,okemby.org #okemby
