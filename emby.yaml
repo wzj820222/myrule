@@ -7,7 +7,9 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #Embyplus
   - DOMAIN-SUFFIX,okemby.org #okemby
   - DOMAIN-SUFFIX,heisi.org #youqibing
+  - DOMAIN,driveproxy.tropics.de5.net #youqibing
   - IP-CIDR,152.53.194.0/24 #youqibing
+  
   - IP-CIDR,146.235.199.99/32 #OracleUS_MY
   - DOMAIN-SUFFIX,ii00.cc
 
@@ -23,5 +25,8 @@ payload:
   - DOMAIN-SUFFIX,feiyue.lol  #飞跃彩虹
 
   - DOMAIN,emby.younoyes.com #Younoyes
+
+  - IP-CIDR,146.56.105.219/32  #HG-Emby
+  
 
   
