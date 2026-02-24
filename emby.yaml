@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,feiyue.lol  #飞跃彩虹
   - DOMAIN,cflocal.xxlb.net  #飞跃彩虹
 
+  - DOMAIN,onatoshi.114514.quest  #Doubon
+
   - DOMAIN,emby.younoyes.com #Younoyes
 
   - IP-CIDR,146.56.105.219/32  #HG-Emby
