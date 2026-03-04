@@ -43,10 +43,15 @@ payload:
   - DOMAIN-SUFFIX,cooks.fyi
 
   
+
+  
   
   
   - DOMAIN,pal.short.gy
   - DOMAIN,7pal.short.gy
+
+  - DOMAIN,edge.cdn-google.ru
+  
   - IP-CIDR,109.61.81.0/24
   - IP-CIDR,5.182.228.0/24
   - IP-CIDR,194.59.59.0/24
