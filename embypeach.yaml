@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN,embymv.link
+  - IP-CIDR,152.53.81.68/32
+  - IP-CIDR,168.138.45.100/32
+  - DOMAIN,plexwhite.embymv.link
+  - DOMAIN,white.embymv.link
+  - DOMAIN,cmwhite.embymv.link
