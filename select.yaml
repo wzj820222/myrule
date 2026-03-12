@@ -4,5 +4,5 @@ payload:
   - DOMAIN-SUFFIX,cftunnel.com
   - IP-CIDR,23.147.172.0/24
 
-  - DOMAIN-SUFFIX,livednow.org,
-  - DOMAIN-SUFFIX,orz-7.com,
+  - DOMAIN-SUFFIX,livednow.org
+  - DOMAIN-SUFFIX,orz-7.com
