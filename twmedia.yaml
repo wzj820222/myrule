@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,api2.4gtv.tv
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ofiii.com
+  - IP-CIDR,123.51.231.132/32
+  - IP-CIDR,60.250.121.103/32
+  - DOMAIN-SUFFIX,cdn.hinet.net
+  - DOMAIN-SUFFIX,infini.money
