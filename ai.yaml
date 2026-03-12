@@ -1,1 +1,5 @@
-
+payload:
+  - DOMAIN,ai.google
+  - DOMAIN,aistudio.google.com
+  - DOMAIN,notebooklm.google
+  - DOMAIN,notebooklm.google.com
