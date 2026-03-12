@@ -11,4 +11,4 @@ payload:
   - DOMAIN,rthktv33-live.akamaized.net,HKMedia
   - DOMAIN,rthktv34-live.akamaized.net,HKMedia
   - DOMAIN,rthktv35-live.akamaized.net,HKMedia
-  - IP-CIDR,23.147.172.0/24,HKMedia
+  #- IP-CIDR,23.147.172.0/24,HKMedia
