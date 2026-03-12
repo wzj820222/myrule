@@ -1,1 +1,3 @@
-
+payload:
+  - IP-CIDR6,2400:cca0:2101:6df1::/32
+  - IP-CIDR6,2602:f96c:df:78::a/32
