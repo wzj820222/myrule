@@ -3,3 +3,5 @@ payload:
   - DOMAIN,aistudio.google.com
   - DOMAIN,notebooklm.google
   - DOMAIN,notebooklm.google.com
+  - DOMAIN,robinfrontend-pa.googleapis.com
+
