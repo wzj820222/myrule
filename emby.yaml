@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,heisi.org #youqibing
   - DOMAIN,driveproxy.tropics.de5.net #youqibing
   - IP-CIDR,152.53.194.0/24 #youqibing
+  - DOMAIN,emby666.alien666.de5.net
   
   - IP-CIDR,146.235.199.99/32 #OracleUS_MY
   - DOMAIN-SUFFIX,ii00.cc
