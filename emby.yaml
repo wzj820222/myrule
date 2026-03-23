@@ -31,6 +31,7 @@ payload:
   - DOMAIN,emby.younoyes.com #Younoyes
 
   - IP-CIDR,146.56.105.219/32  #HG-Emby
+  - DOMAIN,my.microsoftpersonalcontent.com   #HG-Emby
   
 
   
