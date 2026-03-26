@@ -1,8 +1,20 @@
-# 自定义抖音分流规则 (整合版)
+# 自定义抖音分流规则 (终极整合版)
 # 更新时间：2026-03-26
-# 包含：直播流、视频CDN、API、静态资源、字节跳动全家桶组件
+# 包含：IP定位接口(高优)、直播流、视频CDN、API、静态资源、字节系组件
 
-# === 核心关键字 ===
+# === 核心关键字 (针对IP归属地检测的高频API) ===
+DOMAIN-KEYWORD,core-c-lq
+DOMAIN-KEYWORD,core-lq
+DOMAIN-KEYWORD,normal-c-lq
+DOMAIN-KEYWORD,normal-lq
+DOMAIN-KEYWORD,search-quic-lq
+DOMAIN-KEYWORD,search-lq
+DOMAIN-KEYWORD,-normal-hl
+DOMAIN-KEYWORD,-normal-c-hl
+DOMAIN-KEYWORD,-core-c-hl
+DOMAIN-KEYWORD,-normal-lf
+DOMAIN-KEYWORD,-normal-c-lf
+DOMAIN-KEYWORD,-core-c-lf
 DOMAIN-KEYWORD,douyin
 
 # === 抖音核心域名 ===
@@ -33,6 +45,7 @@ DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,byteintl.com
 DOMAIN-SUFFIX,bytemastatic.com
 DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytev.com
 DOMAIN-SUFFIX,bytev04.com
@@ -41,8 +54,11 @@ DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,vopstatp.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
@@ -54,6 +70,7 @@ DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,yhgfb-cn-static.com
 
-# === 数据统计/推送服务 (友盟等，建议一并分流避免 IP 乱跳) ===
+# === 数据统计/推送服务 ===
 DOMAIN-SUFFIX,umeng.com
