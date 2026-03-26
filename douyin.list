@@ -1,1 +1,59 @@
+# 自定义抖音分流规则 (整合版)
+# 更新时间：2026-03-26
+# 包含：直播流、视频CDN、API、静态资源、字节跳动全家桶组件
 
+# === 核心关键字 ===
+DOMAIN-KEYWORD,douyin
+
+# === 抖音核心域名 ===
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,awemeughun.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinpay.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,snssdk.com
+
+# === 字节跳动/火山引擎通用组件 (视频流、图片、API、鉴权) ===
+DOMAIN-SUFFIX,byteacctimg.com
+DOMAIN-SUFFIX,byteactivity.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,byteintl.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytev.com
+DOMAIN-SUFFIX,bytev04.com
+DOMAIN-SUFFIX,bytev4.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,vopstatp.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zjcdn.com
+
+# === 抖音电商与其他静态周边 ===
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,ecombdstatic.com
+DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,xycdn.com
+
+# === 数据统计/推送服务 (友盟等，建议一并分流避免 IP 乱跳) ===
+DOMAIN-SUFFIX,umeng.com
