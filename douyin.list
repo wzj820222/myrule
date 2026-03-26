@@ -74,3 +74,17 @@ DOMAIN-SUFFIX,yhgfb-cn-static.com
 
 # === 数据统计/推送服务 ===
 DOMAIN-SUFFIX,umeng.com
+
+
+
+# === 抖音 P2P 调度与隐藏视频云域名 ===
+DOMAIN-SUFFIX,tianwenca.com
+DOMAIN-SUFFIX,xinqiucc.com
+DOMAIN-SUFFIX,qiezibenpao.com
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,yingt.fun
+
+# === 补充遗漏的字节系业务域名 ===
+DOMAIN-SUFFIX,ecombdpage.com
+DOMAIN-SUFFIX,chengzijianzhan.com
+DOMAIN-SUFFIX,baike.com
