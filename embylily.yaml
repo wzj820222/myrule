@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,stream.lilyemby.cc
+  - DOMAIN-SUFFIX,lilyemby.cc
   - DOMAIN,free.lilyemby.com
   - DOMAIN,www.lilyemby.com
   - DOMAIN,cf.lilyemby.com
