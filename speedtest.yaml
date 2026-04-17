@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,wifiman.me
   - DOMAIN-SUFFIX,wifiman.ubncloud.com
   - DOMAIN,wifiman-stability-test.ubncloud.com
+  - DOMAIN-KEYWORD,wifiman
 
 
 
