@@ -42,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,france24.com
   - DOMAIN-SUFFIX,cooks.fyi
 
+  - DOMAIN-SUFFIX,amdvids.com
+
   - DOMAIN-SUFFIX,stream-link.org
 
   - DOMAIN-SUFFIX,sbs.co.kr
