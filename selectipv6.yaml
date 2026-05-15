@@ -4,4 +4,5 @@ payload:
 
   - IP-CIDR6,2400:c620:22:12c::a/32
   - IP-CIDR6,2406:da18:ae8:8400:c694:ccb8:ded1:5e00/32
-  
+
+  - IP-CIDR6,2607:8140:212:1ff::/32
