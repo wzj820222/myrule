@@ -58,7 +58,7 @@ payload:
 
   - DOMAIN,edge.cdn-google.ru
 
-  - DOMAIN-SUFFIX,dyfensi.top
+
   
   - IP-CIDR,109.61.81.0/24
   - IP-CIDR,5.182.228.0/24
