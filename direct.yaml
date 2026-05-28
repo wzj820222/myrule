@@ -12,3 +12,6 @@ payload:
 
   - DOMAIN,cdn.lilyemby.com #lilyemby
   - DOMAIN,tx.lilyemby.com #lilyemby
+
+
+  - DOMAIN-SUFFIX,mawangweixin.com
