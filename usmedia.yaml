@@ -44,7 +44,7 @@ payload:
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,infomaniak.com
   - DOMAIN-SUFFIX,medya.trt.com.tr
-  - DOMAIN-SUFFIX,tv5monde.com
+  #- DOMAIN-SUFFIX,tv5monde.com
 
   - DOMAIN-SUFFIX,amdvids.com
 
