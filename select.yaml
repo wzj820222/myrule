@@ -6,3 +6,5 @@ payload:
 
   - DOMAIN-SUFFIX,livednow.org
   - DOMAIN-SUFFIX,orz-7.com
+
+  - IP-CIDR,45.139.193.0/24
