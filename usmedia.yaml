@@ -85,10 +85,16 @@ payload:
   - IP-CIDR,206.212.244.0/24
 
 
-
-
-
   - IP-CIDR,198.41.192.0/24
   - IP-CIDR,198.41.200.0/24
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,cftunnel.com
+
+
+
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-KEYWORD,instagram
+  
+  - DOMAIN-SUFFIX,threads.net
