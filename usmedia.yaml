@@ -51,7 +51,8 @@ payload:
   - DOMAIN-SUFFIX,stream-link.org
 
   - DOMAIN-SUFFIX,sbs.co.kr
-  
+
+  - DOMAIN,cdn.99998888.cc
   
   
   - DOMAIN,garyshare.sharewithyou.dpdns.org
