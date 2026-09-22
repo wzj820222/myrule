@@ -34,6 +34,7 @@ payload:
 
   - IP-CIDR,146.56.105.219/32  #HG-Emby
   - DOMAIN,my.microsoftpersonalcontent.com   #HG-Emby
+  - DOMAIN-SUFFIX,111660.xyz  #HG-Emby
   
 
   
