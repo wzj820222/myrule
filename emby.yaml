@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,aemby.de   #起点站
   
   - DOMAIN-SUFFIX,embyplus.org #Embyplus
+  - DOMAIN-SUFFIX,9521732.xyz  #Embyplus
   - DOMAIN-SUFFIX,okemby.org #okemby
   - DOMAIN-SUFFIX,heisi.org #youqibing
   - DOMAIN,driveproxy.tropics.de5.net #youqibing
