@@ -5,3 +5,9 @@ payload:
   - DOMAIN,notebooklm.google.com
   - DOMAIN,robinfrontend-pa.googleapis.com
 
+  - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,auth.meta.com
+  - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
