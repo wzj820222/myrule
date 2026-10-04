@@ -17,4 +17,4 @@ payload:
   - DOMAIN-SUFFIX,mawangweixin.com
 
 
-  - DOMAIN-SUFFIX,rednotecdn.com
+  #- DOMAIN-SUFFIX,rednotecdn.com
