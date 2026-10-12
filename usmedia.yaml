@@ -110,3 +110,5 @@ payload:
   - DOMAIN-KEYWORD,instagram
   
   - DOMAIN-SUFFIX,threads.net
+
+  - DOMAIN,rust.946985.filegear-sg.me
