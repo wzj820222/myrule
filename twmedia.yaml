@@ -7,10 +7,12 @@ payload:
   - IP-CIDR,60.250.121.103/32
   - DOMAIN-SUFFIX,cdn.hinet.net
   - DOMAIN-SUFFIX,infini.money
+  
 
 
   - DOMAIN-SUFFIX,litv.tv
   - DOMAIN-KEYWORD,ofiii
   - DOMAIN-KEYWORD,hinet
 
+  - DOMAIN-SUFFIX,gooodies.bid
 
