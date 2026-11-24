@@ -6,9 +6,9 @@ payload:
   - DOMAIN,robinfrontend-pa.googleapis.com
 
   - DOMAIN-KEYWORD,antigravity
-  - DOMAIN-KEYWORD,.googleapis
+  - DOMAIN-KEYWORD,googleapis
   - DOMAIN-SUFFIX,us-central1.run.app
-  - DOMAIN-SUFFIX,
+
 
   
   - DOMAIN-SUFFIX,muse.ai
