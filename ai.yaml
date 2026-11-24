@@ -5,6 +5,9 @@ payload:
   - DOMAIN,notebooklm.google.com
   - DOMAIN,robinfrontend-pa.googleapis.com
 
+  - DOMAIN-KEYWORD,antigravity,Google   #反重力 规则
+  - DOMAIN-KEYWORD,.googleapis,Google
+
   - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,auth.meta.com
