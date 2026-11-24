@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,wurl.com
   - DOMAIN-SUFFIX,jmp2.uk
   - DOMAIN-SUFFIX,nfl.com
-  - DOMAIN-SUFFIX,tubitv.com,
+  - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tubi.video
   - DOMAIN-SUFFIX,tubi.io
   - DOMAIN-SUFFIX,youboranqs01.com
@@ -46,7 +46,6 @@ payload:
   - DOMAIN-SUFFIX,medya.trt.com.tr
   #- DOMAIN-SUFFIX,tv5monde.com
 
-  - DOMAIN-SUFFIX,amdvids.com
 
   - DOMAIN-SUFFIX,stream-link.org
 
