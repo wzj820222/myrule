@@ -1,30 +1,14 @@
+
 payload:
-  - DOMAIN,ai.google
-  - DOMAIN,aistudio.google.com
-  - DOMAIN,notebooklm.google
-  - DOMAIN,notebooklm.google.com
-  - DOMAIN,robinfrontend-pa.googleapis.com
 
-  - DOMAIN-KEYWORD,antigravity
-  - DOMAIN-KEYWORD,googleapis
-  - DOMAIN-SUFFIX,us-central1.run.app
-  
+  # ========================================
+  # Google AI / Gemini
+  # ========================================
 
-
-  
-  - DOMAIN-SUFFIX,muse.ai
-  - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,auth.meta.com
-  - DOMAIN-SUFFIX,meta.com
-  - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-SUFFIX,fbcdn.net
-
-
+  - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aistudio.google.com
-  - DOMAIN-SUFFIX,antigravity.google
-  - DOMAIN-SUFFIX,antigravity.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
@@ -32,8 +16,145 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
-  - DOMAIN-SUFFIX,notebooklm.google
-  - DOMAIN-SUFFIX,notebooklm.google.com
+
+  - DOMAIN,robinfrontend-pa.googleapis.com
+  - DOMAIN,aisandbox-pa.googleapis.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN,alkalicore-pa.clients6.google.com
+
+
+  # ========================================
+  # Google Antigravity / Code Assist
+  # ========================================
+
+  - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antigravity.google.com
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
+
+  - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+  - DOMAIN,cloudaicompanion.googleapis.com
+  - DOMAIN,aicode.googleapis.com
+  - DOMAIN,aiplatform.googleapis.com
+
+  - DOMAIN-KEYWORD,antigravity
+
   - PROCESS-NAME,Antigravity
   - PROCESS-NAME,Antigravity.exe
   - PROCESS-NAME,antigravity
+
+
+  # ========================================
+  # Google NotebookLM / 其他 AI
+  # ========================================
+
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notebook.google.com
+  - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,flow.google
+
+
+  # ========================================
+  # Google 原有补充规则
+  # ========================================
+
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-SUFFIX,us-central1.run.app
+
+
+  # ========================================
+  # OpenAI / ChatGPT / Sora
+  # ========================================
+
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,sora.com
+
+
+  # ========================================
+  # Anthropic / Claude
+  # ========================================
+
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+
+  # ========================================
+  # xAI / Grok
+  # ========================================
+
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
+
+
+  # ========================================
+  # Meta AI / Facebook / Instagram
+  # ========================================
+
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,threads.net
+
+
+  # ========================================
+  # AI 搜索及综合服务
+  # ========================================
+
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,pplx.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,groq.com
+
+
+  # ========================================
+  # AI 编程工具
+  # ========================================
+
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,githubcopilot.com
+
+
+  # ========================================
+  # AI 音乐及音频创作
+  # ========================================
+
+  - DOMAIN-SUFFIX,suno.com
+  - DOMAIN-SUFFIX,suno.ai
+  - DOMAIN-SUFFIX,udio.com
+  - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,elevenlabs.io
+
+
+  # ========================================
+  # AI 图片及视频生成
+  # ========================================
+
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-SUFFIX,runwayml.com
+  - DOMAIN-SUFFIX,pika.art
+  - DOMAIN-SUFFIX,ideogram.ai
+  - DOMAIN-SUFFIX,leonardo.ai
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,dreamstudio.ai
+  - DOMAIN-SUFFIX,luma.ai
+  - DOMAIN-SUFFIX,krea.ai
+  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,replicate.com
+  - DOMAIN-SUFFIX,fal.ai
