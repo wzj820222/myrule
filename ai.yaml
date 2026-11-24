@@ -7,6 +7,8 @@ payload:
 
   - DOMAIN-KEYWORD,antigravity
   - DOMAIN-KEYWORD,.googleapis
+  - DOMAIN-SUFFIX,us-central1.run.app
+  - DOMAIN-SUFFIX,
 
   
   - DOMAIN-SUFFIX,muse.ai
@@ -15,3 +17,22 @@ payload:
   - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fbcdn.net
+
+
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antigravity.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - PROCESS-NAME,Antigravity
+  - PROCESS-NAME,Antigravity.exe
+  - PROCESS-NAME,antigravity
