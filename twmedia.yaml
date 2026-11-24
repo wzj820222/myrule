@@ -1,18 +1,23 @@
+
 payload:
-  - DOMAIN-SUFFIX,api2.4gtv.tv
+
+  # 台湾媒体服务
+
   - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,ofiii.com
-  - IP-CIDR,123.51.231.132/32
-  - IP-CIDR,60.250.121.103/32
-  - DOMAIN-SUFFIX,cdn.hinet.net
   - DOMAIN-SUFFIX,infini.money
-  
-
-
   - DOMAIN-SUFFIX,litv.tv
-  - DOMAIN-KEYWORD,ofiii
-  - DOMAIN-KEYWORD,hinet
-
   - DOMAIN-SUFFIX,gooodies.bid
 
+
+  # 指定媒体服务器 IP
+
+  - IP-CIDR,123.51.231.132/32
+  - IP-CIDR,60.250.121.103/32
+
+
+  # 原有关键词补充规则
+
+  - DOMAIN-KEYWORD,ofiii
+  - DOMAIN-KEYWORD,hinet
