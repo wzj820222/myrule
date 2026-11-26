@@ -32,9 +32,12 @@ payload:
   - DOMAIN,cfstream.lilyya.top
   - DOMAIN,cfstream.lilyemby.app
 #Lily
-  
-  
-  
+
+#Shrek
+  - DOMAIN-SUFFIX,shrekmedia.org  
+#Shrek
+
+
   - DOMAIN-SUFFIX,28.al  #起点站
   - DOMAIN,qdzfreecdn.b-cdn.net #起点站
   - IP-CIDR,192.99.35.0/24 #起点站
