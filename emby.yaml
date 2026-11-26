@@ -2,6 +2,12 @@ payload:
 
 
 
+#yezi
+  - DOMAIN-SUFFIX,yezi.my
+  - DOMAIN-SUFFIX,lyezi.cc
+  - DOMAIN-SUFFIX,lyezi.xyz
+  - DOMAIN-SUFFIX,200036.xyz
+#yezi
 
 #Peach
   - DOMAIN,embymv.cc
